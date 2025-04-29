@@ -75,3 +75,8 @@
   - **Power BI:** For Data visualizations.
   - **Power Query:** Data transformation.
   - **DAX:** Calculations for KPI generation and advanced analytics.
+
+## Conclusion: 📋🔚
+The dashboard offers valuable insights into the bank’s loan performance, showcasing key trends in loan applications, risk evaluation, and regional distribution. By comparing good and bad loans and tracking month-to-month changes, the bank can enhance the loan approval process, better assess risk, and adjust strategies to align with shifting borrower profiles.
+
+Before I conclude, I’d like to thank my friend Sunitha Mekala 👫🙏 for being an incredible source of inspiration.
