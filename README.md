@@ -1,7 +1,5 @@
 ## Bank-Loan-Performance-Analysis 💰📈
-
 ![bank_loan_risk_analysis_img](https://github.com/user-attachments/assets/c11fda6d-f6eb-4378-a101-26420f3abd7f)
-
 ## Project Overview 📋
 - The Bank Loan Analysis Project offers a clear overview of a bank’s loan portfolio, highlighting KPIs, trends, and customer insights to support informed, data-driven lending decisions.
 - It features an interactive Power BI dashboard with three focused views: Synopsis, Overview, and Details.
