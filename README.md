@@ -62,19 +62,26 @@
  
  ![image](https://github.com/user-attachments/assets/e7d00726-f02c-4f81-82e7-c13a139a8dc0)
 
-## Analyzing Loan Data for Business Insights: 💡📊
+## 💡📊 Analyzing Loan Data for Business Insights: 
   - **Risk Assessment:** Analyzes borrower profiles for credit risk evaluation.
   - **Decision-Making Support:** Provides data-driven insights for loan approvals.
   - **Portfolio Management:** Assesses portfolio health and identifies underperforming loans.
   - **Fraud Detection:** Detects inconsistencies and unusual patterns in loan data.
   - **Profitability Analysis:** Analyzes interest income and loan costs for profitability insights.
 
-## Development Tools: ⚙️🖥️
+## ⚙️🖥️ Development Tools: 
   - **Power BI:** For Data visualizations.
   - **Power Query:** Data transformation.
   - **DAX:** Calculations for KPI generation and advanced analytics.
+ 
+## 📁 Files Included: 
+   - Bank_Loan_Performance_Analysis.pbix
+   - Bank_Loan_Performance_Analysis.pdf
+   - Dataset_Attributes_Description.pdf
+   - Domain Knowledge.pdf
+   - Dataset.csv
 
-## Conclusion: 📋🔚
+## ✍️ Conclusion: 
 The dashboard offers valuable insights into the bank’s loan performance, showcasing key trends in loan applications, risk evaluation, and regional distribution. By comparing good and bad loans and tracking month-to-month changes, the bank can enhance the loan approval process, better assess risk, and adjust strategies to align with shifting borrower profiles.
 
-Before I conclude, I’d like to thank my friend Sunitha Mekala 👫🙏 for being an incredible source of inspiration.
+Before I conclude, I’d like to thank my friend **Sunitha Mekala 👫🙏** for being an incredible source of inspiration.
